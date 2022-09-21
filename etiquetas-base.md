@@ -22,7 +22,7 @@ Vamos primero aprender las etiquetas base que nos van a ayudar a estructura el c
 - ```<meta>``` Permite incluir características a la página
 - ```<body>``` Donde incluímos todo el contenido que queremos mostrar en HTML
 
-TRUCO: Para crear una estructura html dentro de un fichero html en VSC podemos utilizar la abreviación  html:5  o  !  y pulsamos enter, el resultado es este:
+TRUCO: Para crear una estructura html dentro de un fichero html en VSC podemos utilizar la abreviación  ```html:5```  o  ```!```  y pulsamos enter, el resultado es este:
 
 ```html
 <!DOCTYPE html>
@@ -39,13 +39,13 @@ TRUCO: Para crear una estructura html dentro de un fichero html en VSC podemos u
 </html>
 ```
 
-Nos quedaría por ver dentro del código la etiqueta <link>, con la que hemos comentado que podemos conectar un archivo css
+Nos quedaría por ver dentro del código la etiqueta ```<link>```, con la que hemos comentado que podemos conectar un archivo css
 
 ```html
 <link rel="stylesheet" type="text/css" href="css/prueba.css">
 ```
 
-La etiqueta <style> con la que probamos a modificar el color de un título es la siguiente:
+La etiqueta ```<style> ``` con la que probamos a modificar el color de un título es la siguiente:
 
 ```html
 <style type="text/css">
