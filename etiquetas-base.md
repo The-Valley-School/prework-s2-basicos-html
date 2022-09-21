@@ -1,3 +1,7 @@
+>[DIAPOSITIVAS](S2-recursos/etiquetas-base.pptx.pdf)
+
+---
+
 Vamos ahora a ver las etiquetas más importantes que pueden ayudarnos a formatear nuestro contenido.
 
 Recordamos, una etiqueta tiene apertura, cierre y contenido. A su vez puede tener atributos.
@@ -8,15 +12,15 @@ Recordamos, una etiqueta tiene apertura, cierre y contenido. A su vez puede tene
 
 Vamos primero aprender las etiquetas base que nos van a ayudar a estructura el código:
 
-- <!DOCTYPE> Nos indica la versión de HTML
-- <html> Raíz del archivo
-- <head> Engloba la información adicional del documento que no va a ser visible
-- <title> Título de la página. Ya lo hemos usado en nuestro “Hello World!”
-- <link> Nos va a permitir conectar diferentes recursos externos como los archivos CSS
-- <style> Nos permite incluir código CSS dentro del documento HMLT (No recomendado)
-- <script> Permite incluir código JS o conectarlo con el documento HTML
-- <meta> Permite incluir características a la página
-- <body> Donde incluímos todo el contenido que queremos mostrar en HTML
+- ```<!DOCTYPE>``` Nos indica la versión de HTML
+- ```<html>``` Raíz del archivo
+- ```<head>``` Engloba la información adicional del documento que no va a ser visible
+- ```<title>``` Título de la página. Ya lo hemos usado en nuestro “Hello World!”
+- ```<link>``` Nos va a permitir conectar diferentes recursos externos como los archivos CSS
+- ```<style>``` Nos permite incluir código CSS dentro del documento HMLT (No recomendado)
+- ```<script>``` Permite incluir código JS o conectarlo con el documento HTML
+- ```<meta>``` Permite incluir características a la página
+- ```<body>``` Donde incluímos todo el contenido que queremos mostrar en HTML
 
 TRUCO: Para crear una estructura html dentro de un fichero html en VSC podemos utilizar la abreviación  html:5  o  !  y pulsamos enter, el resultado es este:
 
