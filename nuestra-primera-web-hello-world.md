@@ -1,3 +1,8 @@
+>[DIAPOSITIVAS](S2-recursos/hello-world.pdf)
+
+---
+
+
 ¡Vamos a hacer ya nuestro primer web en html! Para ello tenemos que abrir Visual Studio Code y seguir los siguientes pasos:
 
 - Abrimos VSC que tenemos descargado
