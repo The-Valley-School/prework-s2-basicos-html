@@ -1,4 +1,8 @@
 
+> [DIAPOSITIVAS](S2-recursos/introduccion.pdf)
+
+---
+
 Bienvenidos a una nueva sesión del prework, a lo largo de esta sesión vamos ver:
 
 - Una primera introducción a HTML
@@ -45,7 +49,7 @@ Por ejemplo, vamos a verlo con la siguiente estructura de HTML (sin fijarnos en 
 
 Así sería la estructura de árbol de este código:
 
-![Untitled](%F0%9F%9F%A2%20SESIO%CC%81N%202%20-%20Ba%CC%81sicos%20HTML%20(I)%20344263856fcc4f5ca8c5198cd15d0adc/Untitled.png)
+![árbol-html](S2-recursos/img/html-arbol.png)
 
 **ETIQUETAS**
 
@@ -59,8 +63,8 @@ Una etiqueta es un trozo de código con el que vamos a indicar al explorador com
 
 Estas etiquetas también pueden tener atributos como iremos viendo, por ejemplo un atributo de color que indica el color de la letra del párrafo:
 
-```jsx
-<p stylet="color:blue;">Párrafo de ejemplo</p>
+```html
+<p style="color:blue;">Párrafo de ejemplo</p>
 ```
 
   
@@ -104,7 +108,7 @@ Tenemos:
 - Etiqueta <body> donde metemos todo el contenido que queremos mostrar
 
 
-```jsx
+```html
 <html>
 <head>
     CONTENIDO QUE NO SE MUESTRA
