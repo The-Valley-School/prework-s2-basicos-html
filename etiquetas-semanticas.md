@@ -1,3 +1,8 @@
+>[DIAPOSITIVAS](S2-recursos/etiquetas-semanticas.pdf)
+
+---
+
+
 Las últimas etiquetas que vamos a ver en la sesión de hoy son las etiquetas semánticas, cuyo objetivo es que los motores de búsqueda entiendan mucho mejor nuestra estructura y contenido de la web y posicionarla de una manera más eficaz. 
 
 **HEADER**
