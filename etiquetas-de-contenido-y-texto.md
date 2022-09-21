@@ -1,3 +1,7 @@
+>[DIAPOSITIVAS](S2-recursos/etiquetas-de-contenido.pdf)
+
+---
+
 
 Llega el momento de ver todas aquellas etiquetas que nos van a valer para dar formato a nuestro contenido. Abrimos un nuevo proyecto en VSC y empezamos a trabajar
 
@@ -28,7 +32,7 @@ Etiqueta que nos va a permitir escribir contenido dentro de nuestra página web.
 
 **SPAN**
 
-Se trata de una etiqueta que nos sirve para contener un trozo del bloque permitiendo aplicarle un formato específico. Por ejemplo, para poder cambiar el estilo de una parte del párrafo usaríamos <span>
+Se trata de una etiqueta que nos sirve para contener un trozo del bloque permitiendo aplicarle un formato específico. Por ejemplo, para poder cambiar el estilo de una parte del párrafo usaríamos ```<span>```
 
 ```html
 <p>Este párrafo es negro. <span style:"color:red;">Y este párrafo es rojo.</span></p>
