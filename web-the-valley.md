@@ -1,6 +1,12 @@
+> [Enunciado](S2-recursos/the-valley.pdf)
+
+> [Solucion](S2-recursos/solucion-the-valley.zip)
+
+---
+
 Llega el momento de remangarnos, el equipo de The Valley nos ha pedido si podemos hacerles una página web con 3 másters nuevos que han sacado. Nos han enviado un pdf para mostrarnos como lo quieren:
 
-[S2-EjercicioTheValley.pdf](%F0%9F%9F%A2%20SESIO%CC%81N%202%20-%20Ba%CC%81sicos%20HTML%20(I)%20344263856fcc4f5ca8c5198cd15d0adc/S2-EjercicioTheValley.pdf)
+> [Enunciado](S2-recursos/the-valley.pdf)
 
 Revisando la documentación que nos han enviado vemos que tenemos una estructura similar a esta:
 
@@ -15,11 +21,11 @@ Tras crear nuestro proyecto en VSC, creamos una estructura básica HMTL y creamo
 
 Creamos primero el header de la página que incluye la imagen (adaptamos el tamaño), el título y el slogan
 
-```
+```html
 <header>
-        <img height="100" src="img/img0.png"/>
-        <h1>Másters digitales</h1>
-        <p>Lidera el mundo profesional</p>
+    <img height="100" src="img/img0.png"/>
+    <h1>Másters digitales</h1>
+    <p>Lidera el mundo profesional</p>
 </header>
 ```
 
@@ -27,11 +33,11 @@ El segundo bloque que creamos es el menu navegación con un listado de secciones
 
 ```html
 <nav>
-		<ul>
-		    <li>Conoce nuestros másters</li>
-		    <li>Contenido del máster</li>
-		    <li>Convocatorias y plazas </li>
-		</ul>
+    <ul>
+        <li>Conoce nuestros másters</li>
+        <li>Contenido del máster</li>
+        <li>Convocatorias y plazas </li>
+    </ul>
 </nav>
 ```
 
