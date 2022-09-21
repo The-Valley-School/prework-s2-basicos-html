@@ -120,7 +120,7 @@ Dentro de esta etiqueta tenemos los atributos de **height** y **width** que nos 
 
 **LISTAS** 
 
-La etiqueta ```<ul>``` nos permite crear un listado dentro de HTML, cada elemento de la lista estará identificado con la etiqueta ```<li>```. En caso de quere hacer una lista ordenada podemos usar <ol>
+La etiqueta ```<ul>``` nos permite crear un listado dentro de HTML, cada elemento de la lista estará identificado con la etiqueta ```<li>```. En caso de quere hacer una lista ordenada podemos usar ```<ol>```
 
 - Lista
 
