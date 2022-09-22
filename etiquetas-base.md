@@ -22,7 +22,7 @@ Vamos primero aprender las etiquetas base que nos van a ayudar a estructura el c
 - ```<meta>``` Permite incluir características a la página
 - ```<body>``` Donde incluímos todo el contenido que queremos mostrar en HTML
 
-TRUCO: Para crear una estructura html dentro de un fichero html en VSC podemos utilizar la abreviación  ```html:5```  o  ```!```  y pulsamos enter, el resultado es este:
+**TRUCO**: Para crear una estructura html dentro de un fichero html en VSC podemos utilizar la abreviación  ```html:5```  o  ```!```  y pulsamos enter, el resultado es este:
 
 ```html
 <!DOCTYPE html>
