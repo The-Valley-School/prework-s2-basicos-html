@@ -32,7 +32,7 @@ Vamos ahora a mostrar nuestra primera frase en el navegador, vamos a utilizar la
 
 Guardamos, recargamos la pestaña del navegador ¡ya nos muestra el mensaje!
 
-Para ponerle el lazo a este primer proyecto, vamos a cambiar el título de la pestaña que aparece en el navegador, para ello introducimos dentro del <head> la siguiente información:
+Para ponerle el lazo a este primer proyecto, vamos a cambiar el título de la pestaña que aparece en el navegador, para ello introducimos dentro del ```<head>``` la siguiente información:
 
 ```html
 <title> Mi primer ejercicio </title>
