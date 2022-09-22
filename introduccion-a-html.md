@@ -9,13 +9,13 @@ Bienvenidos a una nueva sesión del prework, a lo largo de esta sesión vamos ve
 - La estructura de un documento HTML y las etiquetas más importantes
 - Haremos nuestra primera web
 
-**¿QUÉ ES HTML?**
+## ¿QUÉ ES HTML?
 
 - Es el lenguaje estándar para la creación de cualquier página web
 - Es un lenguaje de marcado, a partir de una estructura de etiquetas indica al navegador que contenido mostrar y como mostrarlo
 - Utilizaremos etiquetas que nos indicarán que tipo de información mostrar (párrafos, tablas, títulos…)
 
-**ESTRUCTURA ÁRBOL DE NODOS**
+## ESTRUCTURA ÁRBOL DE NODOS
 
 HTML trabaja mediante una estructura de árbol de nodos. Tenemos un nudo raíz del cual se descuelgan diferentes nodos. De esta manera estos nodos pueden también ser padres de los siguientes y así sucesivamente.
 
@@ -51,7 +51,7 @@ Así sería la estructura de árbol de este código:
 
 ![árbol-html](S2-recursos/img/html-arbol.png)
 
-**ETIQUETAS**
+## ETIQUETAS
 
 Una etiqueta es un trozo de código con el que vamos a indicar al explorador como mostrar cierto contenido. La estructura de la etiqueta sería tal que así:
 
@@ -69,7 +69,7 @@ Estas etiquetas también pueden tener atributos como iremos viendo, por ejemplo 
 
   
 
-**ESTRUCTURA HTML**
+## ESTRUCTURA HTML
 
 Volviendo al ejemplo anterior:
 
