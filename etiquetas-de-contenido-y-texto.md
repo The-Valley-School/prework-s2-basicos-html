@@ -5,7 +5,7 @@
 
 Llega el momento de ver todas aquellas etiquetas que nos van a valer para dar formato a nuestro contenido. Abrimos un nuevo proyecto en VSC y empezamos a trabajar
 
-### HEADING
+## HEADING
 
 Estas etiquetas nos van a valer para poner títulos en nuestra páginas. Los motores de búsqueda las utilizarán para posicionarse. Podemos utilizar de la etiqueta a ```<h1>``` a la etiqueta ```<h6>``` para estructurar nuestros títulos y subtítulos dentro de la página
 
@@ -22,7 +22,7 @@ Estas etiquetas nos van a valer para poner títulos en nuestra páginas. Los mot
 
  
 
-### PÁRRAFO
+## PÁRRAFO
 
 Etiqueta que nos va a permitir escribir contenido dentro de nuestra página web.
 
@@ -30,7 +30,7 @@ Etiqueta que nos va a permitir escribir contenido dentro de nuestra página web.
 <p> Este es mi primer párrafo </p>
 ```
 
-### SPAN
+## SPAN
 
 Se trata de una etiqueta que nos sirve para contener un trozo del bloque permitiendo aplicarle un formato específico. Por ejemplo, para poder cambiar el estilo de una parte del párrafo usaríamos ```<span>```
 
@@ -38,7 +38,7 @@ Se trata de una etiqueta que nos sirve para contener un trozo del bloque permiti
 <p>Este párrafo es negro. <span style:"color:red;">Y este párrafo es rojo.</span></p>
 ```
 
-### NEGRITA, SUBRAYADO Y CURSIVA
+## NEGRITA, SUBRAYADO Y CURSIVA
 
 Etiquetas que nos van a poder modificar el texto.
 
@@ -60,7 +60,7 @@ Podemos combinar estas etiquetas:
 <p>El siguiente texto va a estar en subrayado y en negrita:<u><b>Hola Mundo</b></u></p>
 ```
 
-### ENLACE
+## ENLACE
 
 Esta etiqueta nos va a permitir navegar a páginas dentro de la aplicación o a enlaces externos como google…
 
@@ -84,7 +84,7 @@ Este enlace se nos abre en la mima página, si queremos que se nos abra en otra 
 <a href="https://www.thevalley.es" target="_blank">Ir a la página de The Valley</a>
 ```
 
-### SALTOS DE LÍNEA
+## SALTOS DE LÍNEA
 
 La etiqueta ```<br> ```nos permite dar un salto de línea, por ejemplo, dentro de un párrafo. La etiqueta ```<br>``` no necesita cierre.
 
@@ -92,7 +92,7 @@ La etiqueta ```<br> ```nos permite dar un salto de línea, por ejemplo, dentro d
 <p>Este es mi contenido, <br>esto tiene que ir en otra línea</p>
 ```
 
-### SEPARADOR DE CONTENIDO
+## SEPARADOR DE CONTENIDO
 
 La etiqueta ```<hr>``` nos permite realizar una separación de contenido. Aparecerá una línea en nuestra web que hará la separación.
 
@@ -102,7 +102,7 @@ La etiqueta ```<hr>``` nos permite realizar una separación de contenido. Aparec
 <p>Este es mi segundo contenido</p>
 ```
 
-### IMÁGENES
+## IMÁGENES
 
 La etiqueta ```<img>``` nos va a permitir introducir imágenes dentro de nuestra página web.
 
@@ -118,7 +118,7 @@ Dentro de esta etiqueta tenemos los atributos de **height** y **width** que nos 
 <img src="imagen.jpg" width="100" height="200"> 
 ```
 
-### LISTAS
+## LISTAS
 
 La etiqueta ```<ul>``` nos permite crear un listado dentro de HTML, cada elemento de la lista estará identificado con la etiqueta ```<li>```. En caso de quere hacer una lista ordenada podemos usar ```<ol>```
 
@@ -183,7 +183,7 @@ Podemos también anidar listas:
 </ul>
 ```
 
-### TABLAS
+## TABLAS
 
 También podemos hacer tablas en HTML, para ello utilizaremos la etiqueta ```<table>```, para cada fila la etiqueta ```<tr>``` y para cada columna la etiqueta ```<td>```
 
@@ -263,7 +263,7 @@ Para tablas grandes tenemos la estructura:
 </table>
 ```
 
-### DIV
+## DIV
 
 La etiqueta ```<div>``` la utilizamos como un contenedor de bloque de contenido. Se usan para estructurar el contenido de la página web.
 
