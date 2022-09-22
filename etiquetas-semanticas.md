@@ -5,7 +5,7 @@
 
 Las últimas etiquetas que vamos a ver en la sesión de hoy son las etiquetas semánticas, cuyo objetivo es que los motores de búsqueda entiendan mucho mejor nuestra estructura y contenido de la web y posicionarla de una manera más eficaz. 
 
-### HEADER
+## HEADER
 
 Hace referencia al título de nuestra página web y contenido importante que hiciese referencia a nuestra página.
 
@@ -15,7 +15,7 @@ Hace referencia al título de nuestra página web y contenido importante que hic
 </header>
 ```
 
-### NAV
+## NAV
 
 Sección de nuestro documento HTML donde encapsularíamos la navegación, lo que viene siendo el menu de la página.
 
@@ -25,7 +25,7 @@ Sección de nuestro documento HTML donde encapsularíamos la navegación, lo que
 </nav>
 ```
 
-### SECTION
+## SECTION
 
 Etiqueta que utilizaremos para estructurar cada una de las secciones de nuestra página web. Si tomamos como referencia un periódico, estas serían la sección noticias, sección deportes…
 
@@ -35,7 +35,7 @@ Etiqueta que utilizaremos para estructurar cada una de las secciones de nuestra 
 </section>
 ```
 
-### ARTICLE
+## ARTICLE
 
 Los article podemos identificarlos, siguiendo el símil, como cada una de los artículos de esas secciones del periódico. Hace referencia a una parte de código que puede ser independiente.
 
@@ -47,7 +47,7 @@ Estos artículos nos los podríamos llevar a cualquier lado de la página web y 
 </article>
 ```
 
-### ASIDE
+## ASIDE
 
 Para indicar contenido no prioritario, como podría ser la sección de anuncios.
 
@@ -57,7 +57,7 @@ Para indicar contenido no prioritario, como podría ser la sección de anuncios.
 </aside>
 ```
 
-### FOOTER
+## FOOTER
 
 Sería el pie de página de nuestra web.
 
