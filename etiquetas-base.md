@@ -17,7 +17,7 @@ Vamos primero aprender las etiquetas base que nos van a ayudar a estructura el c
 - ```<head>``` Engloba la información adicional del documento que no va a ser visible
 - ```<title>``` Título de la página. Ya lo hemos usado en nuestro “Hello World!”
 - ```<link>``` Nos va a permitir conectar diferentes recursos externos como los archivos CSS
-- ```<style>``` Nos permite incluir código CSS dentro del documento HMLT (No recomendado)
+- ```<style>``` Nos permite incluir código CSS dentro del documento HTML (No recomendado)
 - ```<script>``` Permite incluir código JS o conectarlo con el documento HTML
 - ```<meta>``` Permite incluir características a la página
 - ```<body>``` Donde incluímos todo el contenido que queremos mostrar en HTML
