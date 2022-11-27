@@ -103,7 +103,7 @@ Volviendo al ejemplo anterior:
 
 Tenemos:
 
-- Etiqueta <html> que es la etiqueta raíz con la que se inicia cualquier fichero de HTML
+- Etiqueta ```html<html>``` que es la etiqueta raíz con la que se inicia cualquier fichero de HTML
 - Etiqueta <head> contenido html que no es mostrado ( titulo, referencias a otros archivos, contenido seo….
 - Etiqueta <body> donde metemos todo el contenido que queremos mostrar
 
@@ -120,5 +120,3 @@ Tenemos:
 ```
 
 ¡Seguimos!
-
-<html>
