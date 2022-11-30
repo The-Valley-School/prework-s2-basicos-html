@@ -7,7 +7,7 @@ Llega el momento de ver todas aquellas etiquetas que nos van a valer para dar fo
 
 ## HEADING
 
-Estas etiquetas nos van a valer para poner títulos en nuestra páginas. Los motores de búsqueda las utilizarán para posicionarse. Podemos utilizar de la etiqueta a ```<h1>``` a la etiqueta ```<h6>``` para estructurar nuestros títulos y subtítulos dentro de la página
+Estas etiquetas nos van a valer para poner títulos en nuestra páginas. Los motores de búsqueda las utilizarán para posicionarse. Podemos utilizar de la etiqueta ```<h1>``` a la etiqueta ```<h6>``` para estructurar nuestros títulos y subtítulos dentro de la página
 
  
 
@@ -15,9 +15,9 @@ Estas etiquetas nos van a valer para poner títulos en nuestra páginas. Los mot
 <h1>Título de la página</h1>
 <h2>Subtítulo<h2>
 <h3>Sub-subtítulo</h3>
-<h4>subsub...</h4>
-<h5>subsub...</h5>
-<h6>subsub...</h6>
+<h4>subsubsub...</h4>
+<h5>subsubsubsub...</h5>
+<h6>subsubsubsubsub...</h6>
 ```
 
  
@@ -40,7 +40,7 @@ Se trata de una etiqueta que nos sirve para contener un trozo del bloque permiti
 
 ## NEGRITA, SUBRAYADO Y CURSIVA
 
-Etiquetas que nos van a poder modificar el texto.
+Etiquetas que nos van a permitir modificar el texto.
 
 - ```<b>``` nos va a permitir poner el bloque que contenga en negrita
 - ```<i>``` nos permite poner en cursiva el contenido
