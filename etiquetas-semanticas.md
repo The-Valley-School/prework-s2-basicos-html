@@ -3,7 +3,7 @@
 ---
 
 
-Las últimas etiquetas que vamos a ver en la sesión de hoy son las etiquetas semánticas, cuyo objetivo es que los motores de búsqueda entiendan mucho mejor nuestra estructura y contenido de la web y posicionarla de una manera más eficaz. 
+Las últimas etiquetas que vamos a ver en la sesión de hoy son las etiquetas semánticas, cuyo objetivo es que los motores de búsqueda entiendan mucho mejor nuestra estructura y el contenido de la web, y posicionarla de una manera más eficaz. 
 
 ## HEADER
 
@@ -37,7 +37,7 @@ Etiqueta que utilizaremos para estructurar cada una de las secciones de nuestra 
 
 ## ARTICLE
 
-Los article podemos identificarlos, siguiendo el símil, como cada una de los artículos de esas secciones del periódico. Hace referencia a una parte de código que puede ser independiente.
+Los article podemos identificarlos, siguiendo el símil, como cada uno de los artículos de esas secciones del periódico. Hace referencia a una parte de código que puede ser independiente.
 
 Estos artículos nos los podríamos llevar a cualquier lado de la página web y seguirían teniendo significado propio.
 
