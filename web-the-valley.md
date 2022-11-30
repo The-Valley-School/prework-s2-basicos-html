@@ -1,5 +1,3 @@
-> [Enunciado](S2-recursos/the-valley.pdf)
-
 > [Solucion](S2-recursos/solucion-the-valley.zip)
 
 ---
@@ -115,20 +113,20 @@ Tras la sección de másters vamos a hacer la sección de ‘Contenidos del más
 	<ul>
 	    <li>
 	        Máster en Digital Product Management
-	        <ol>
-	            <li>Prework</li>
-	            <li>Fundamentos web & JS</li>
-	            <li>Desarrollo web Front-end</li>
-	            <li>Desarrollo web Back-end</li>
-	        </ol>
-	    </li>
-	    <li>
-	        Desarrollo Web: Front End
-	        <ol>
+                <ol>
 	            <li>Lean Business Design & Innovation</li>
 	            <li>Product Management & Strategy</li>
 	            <li>Product Growth</li>
 	        </ol>
+	    </li>
+	    <li>
+	        Desarrollo Web: Front End
+		<ol>
+	            <li>Prework</li>
+	            <li>Fundamentos web & JS</li>
+	            <li>Desarrollo web Front-end</li>
+	            <li>Desarrollo web Back-end</li>
+	        </ol> 
 	    </li>
 	    <li>
 	        Impact MBA
@@ -191,9 +189,9 @@ Por último el footer, con el copyright:
 </footer>
 ```
 
-¡ PLUS ! Vamos ha hacer que el menú de navegación sea utilizable y nos lleve a las diferentes secciones, para ello utilizaremos la etiqueta ```<a>``` dentro del menú de navegación.
+¡¡PLUS!! Vamos ha hacer que el menú de navegación sea utilizable y nos lleve a las diferentes secciones, para ello utilizaremos la etiqueta ```<a>``` dentro del menú de navegación.
 
-Tenemos que indicarle a dónde navegamos, esto va a ser a las diferentes secciones. Cada una de ellas tiene que tener un atributo único que las identifique por lo que utilizamos id.
+Tenemos que indicarle a dónde navegamos, esto va a ser a las diferentes secciones. Cada una de ellas tiene que tener un atributo único que las identifique, por lo que utilizamos id.
 
 ```html
 <section id="seccion1">
@@ -209,7 +207,7 @@ Desde nuestro enlace referenciaremos ese id dentro de la etiqueta href con un # 
 </ul>
 ```
 
-Ya abríamos terminado nuestra página web, el resultado final:
+Ya habríamos terminado nuestra página web, el resultado final:
 
 [ Si copias y pegas este código, acuérdate de meter en el proyecto las imágenes dentro de la carpeta img, las tienes en el fichero que te adjuntamos ]
 
@@ -298,21 +296,22 @@ Ya abríamos terminado nuestra página web, el resultado final:
                 <li>
                     Máster en Digital Product Management
                     <ol>
-                        <li>Prework</li>
+                        <li>Lean Business Design & Innovation</li>
+                        <li>Product Management & Strategy</li>
+                        <li>Product Growth</li>
+                    </ol>
+                </li>
+                <li>
+                    Desarrollo Web: Front End
+                    <ol>
+			<li>Prework</li>
                         <li>Fundamentos web & JS</li>
                         <li>Desarrollo web Front-end</li>
                         <li>Desarrollo web Back-end</li>
                     </ol>
                 </li>
                 <li>
-                    Desarrollo Web: Front End
-                    <ol>
-                        <li>Lean Business Design & Innovation</li>
-                        <li>Product Management & Strategy</li>
-                        <li>Product Growth</li>
-                    </ol>
-                </li>
-                <li>Impact MBA
+		    Impact MBA
                     <ol>
                         <li>Conoce los grandes ámbitos de la disrupción a través de las nuevas tecnologías</li>
                         <li>Idea y prototipa productos innovadores</li>
